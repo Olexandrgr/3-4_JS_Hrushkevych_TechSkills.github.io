@@ -1,0 +1,36 @@
+body {
+  width: 45%;
+  margin: auto;
+}
+
+h4 {
+  margin: auto;
+  text-align: center;
+}
+
+.test_form {
+  background-color:#cdcdcd;
+  padding: 15px 25px;
+}
+
+input[type = 'checkbox']{
+  float: left;
+  margin-left: 40px;
+}
+
+input[type = 'submit']{
+  margin-left: 30%;
+}
+
+p {
+    margin: 0 62px 10px;
+}
+
+.box1 p.ques {
+  font-weight: 600;
+}
+
+h5 {
+  font-weight: 600;
+}
+
